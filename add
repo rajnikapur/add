@@ -1,5 +1,5 @@
-print('Addition of Two numbers\n')
-a = int(input('Enter 1st Number :')
-b = int(input('Enter 2nd Number :')
+print("Addition of Two numbers\n")
+a = int(input("Enter 1st Number :"))
+b = int(input("Enter 2nd Number : "))
 sum = a + b
-print(f'the sum of {a} and {b} is {sum}')
+print(f("the sum of {a} and {b} is {sum}"))
